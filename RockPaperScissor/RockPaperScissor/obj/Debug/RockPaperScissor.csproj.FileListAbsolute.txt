@@ -1,0 +1,7 @@
+C:\Users\hugo_\OneDrive\Área de Trabalho\HBSIS\RockPaperScissor\RockPaperScissor\obj\Debug\RockPaperScissor.csprojAssemblyReference.cache
+C:\Users\hugo_\OneDrive\Área de Trabalho\HBSIS\RockPaperScissor\RockPaperScissor\obj\Debug\RockPaperScissor.csproj.CoreCompileInputs.cache
+C:\Users\hugo_\OneDrive\Área de Trabalho\HBSIS\RockPaperScissor\RockPaperScissor\bin\Debug\RockPaperScissor.exe.config
+C:\Users\hugo_\OneDrive\Área de Trabalho\HBSIS\RockPaperScissor\RockPaperScissor\bin\Debug\RockPaperScissor.exe
+C:\Users\hugo_\OneDrive\Área de Trabalho\HBSIS\RockPaperScissor\RockPaperScissor\bin\Debug\RockPaperScissor.pdb
+C:\Users\hugo_\OneDrive\Área de Trabalho\HBSIS\RockPaperScissor\RockPaperScissor\obj\Debug\RockPaperScissor.exe
+C:\Users\hugo_\OneDrive\Área de Trabalho\HBSIS\RockPaperScissor\RockPaperScissor\obj\Debug\RockPaperScissor.pdb
